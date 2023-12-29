@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Budnieswski</title>
-    <link>https://bski.top/</link>
+    <link>/</link>
     <description>Recent content on Budnieswski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Guilherme Budnieswski.</copyright><atom:link href="https://bski.top/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Guilherme Budnieswski.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
